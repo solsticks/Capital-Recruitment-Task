@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\capital placement task\\capital placement task\\capital placement task.csproj": {}
+    "C:\\Users\\hp\\Documents\\Capital Recruitment\\capital placement task\\capital placement task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\capital placement task\\capital placement task\\capital placement task.csproj": {
+    "C:\\Users\\hp\\Documents\\Capital Recruitment\\capital placement task\\capital placement task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\capital placement task\\capital placement task\\capital placement task.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\Capital Recruitment\\capital placement task\\capital placement task.csproj",
         "projectName": "capital placement task",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\capital placement task\\capital placement task\\capital placement task.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\Capital Recruitment\\capital placement task\\capital placement task.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\capital placement task\\capital placement task\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\Capital Recruitment\\capital placement task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

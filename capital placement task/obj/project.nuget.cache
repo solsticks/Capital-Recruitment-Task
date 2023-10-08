@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YWPF+P9TxQDGnhkh7MxJW/IFfrCo9K/G/GxBfx4qOR4ywyMatWkx8IBZ+gcZVXWX4vZgvcuUci+yM8+nlV3eoQ==",
+  "dgSpecHash": "XfKplU4YCa6mXaAHhHxTSse+jqIFGXhFX0gVPYYvBirnrkEmnnMFYBT39KDG9g4oE3MGQfRyj0ztnaWi1LfemA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\capital placement task\\capital placement task\\capital placement task.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Capital Recruitment\\capital placement task\\capital placement task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.azure.cosmos\\3.30.1\\microsoft.azure.cosmos.3.30.1.nupkg.sha512",
