@@ -1,0 +1,52 @@
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\capital placement task.exe
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\capital placement task.deps.json
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\capital placement task.runtimeconfig.json
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\capital placement task.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\capital placement task.pdb
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.AssemblyInfo.cs
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.csproj.CopyComplete
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\refint\capital placement task.dll
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.pdb
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\capital placement task.genruntimeconfig.cache
+C:\Users\hp\source\repos\capital placement task\capital placement task\obj\Debug\net6.0\ref\capital placement task.dll
