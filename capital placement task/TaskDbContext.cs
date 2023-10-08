@@ -1,4 +1,5 @@
-﻿using capital_placement_task.Models;
+﻿using capital_placement_task.DTOs;
+using capital_placement_task.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -13,6 +14,8 @@ namespace capital_placement_task
         public DbSet<ProgramDetails>? ProgramDetails { get; set; }
         public DbSet<ApplicationForm>? ApplicationForms { get; set; }
         public DbSet<WorkFlow>? WorkFlows { get; set; }
+        public DbSet<Preview>? Previews { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -36,6 +39,10 @@ namespace capital_placement_task
             modelBuilder.Entity<WorkFlow>()
                 .ToContainer("WorkFlow")
                 .HasPartitionKey(s => s.Id);
+
+            modelBuilder.Entity<Preview>()
+               .ToContainer("Previews")
+               .HasPartitionKey(p => p.Id);
 
             modelBuilder.Entity<ProgramDetails>().OwnsOne(p => p.AdditionalInfo);
            
